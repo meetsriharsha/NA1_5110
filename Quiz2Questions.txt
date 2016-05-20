@@ -1,0 +1,17 @@
+Which of the following is not directly used for IP fragmentation and reassembly?
+
+ 
+
+Where IP fragmentation happens?
+
+ 
+
+Why IP(v4) fragmentation is needed?
+
+ 
+
+Where IP(v4) reassembly happens?
+
+ 
+
+Which of the fallowing is correct about CIDR?

@@ -1,0 +1,30 @@
+scp -P 32058 server_client.zip sc9v9@pc3.instageni.idre.ucla.edu:/users/sc9v9/
+scp -P 32058 new.zip sc9v9@pc3.instageni.idre.ucla.edu:/users/sc9v9/
+
+scp -P 38202 server_client.zip sc9v9@pc1.geni.uchicago.edu:/users/sc9v9/
+scp -P 38202 new.zip sc9v9@pc1.geni.uchicago.edu:/users/sc9v9/
+
+scp -P 39994 server_client.zip sc9v9@pc1.instageni.umkc.edu:/users/sc9v9/
+scp -P 39994 new.zip sc9v9@pc1.instageni.umkc.edu:/users/sc9v9/
+
+scp -P 33082 server_client.zip sc9v9@pc2.instageni.utc.edu:/users/sc9v9/
+scp -P 33082 new.zip sc9v9@pc2.instageni.utc.edu:/users/sc9v9/
+
+
+sc9v9@152.54.14.18    ---------- server
+sc9v9@152.54.14.17    ---------- client 1
+sc9v9@152.54.14.15    ---------- client 2
+sc9v9@152.54.14.19    ---------- client 3   
+
+
+scp  server_client.zip sc9v9@152.54.14.18:/home/sc9v9/
+scp  new.zip sc9v9@152.54.14.18:/home/sc9v9/
+
+scp  server_client.zip sc9v9@152.54.14.17:/home/sc9v9/
+scp  new.zip sc9v9@152.54.14.17:/home/sc9v9/
+
+scp  server_client.zip sc9v9@152.54.14.15:/home/sc9v9/
+scp  new.zip sc9v9@152.54.14.15:/home/sc9v9/
+
+scp  server_client.zip sc9v9@152.54.14.19:/home/sc9v9/
+scp  new.zip sc9v9@152.54.14.19:/home/sc9v9/
